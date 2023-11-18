@@ -1,6 +1,6 @@
 # Program for "pomo" (boss in Finnish)
 Checks the site pages from the company’s customer base for the presence of a sale and compares the contract date with today.
-If, when checking now, the property on the website is listed as sold and the contract date is currently less than now, in this case a certain result is recorded, otherwise (if the contract date has expired) a different result is recorded.
+  If, when checking now, the property on the website is listed as sold and the contract date is currently less than now, in this case a certain result is recorded, otherwise (if the contract date has expired) a different result is recorded.
 
 Briefly about the key elements of the code:  
 - **void AddToStartup()** // Add the program to Windows startup  
